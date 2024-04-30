@@ -1,4 +1,4 @@
-![cover](assets/cover.png)
+![cover](assets/home.png)
 
 <div align="center">
 	<h2>Greenhouse Gas Compute App</h2>
